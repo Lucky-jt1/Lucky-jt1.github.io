@@ -6,7 +6,7 @@
 ●  A.M.G. Residential High School, Bommuru
    Studied Grade X and passed with a CGPA of 8.3
 
-# TRAINING AND PROJECTS
+# PROJECTS
 1.  Worked as a team lead for mini project which involves in designing ''Anti sleep alarm'' using electronics
 2.  Presented a project on '' Temparature and Humidity monitoring by using Android "
 3.  Our Major Project is " IOT based shipping container with location tracking and environmental monitoring "
